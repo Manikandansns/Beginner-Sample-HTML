@@ -1,0 +1,116 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(255, 166, 0);
+    font-family: sans-serif;
+}
+.section-1{
+    margin:20px 500px 10px 500px;
+    background-color: white;
+}
+.flex{
+    display: flex;
+}
+.section-2{
+    margin: 10px 30px 0px 30px;
+}
+/* .img{
+    height: 50vh;
+    width: 100%;
+    border: 2px solid black;
+} */
+.price{
+    color: rgb(255, 166, 0);
+}
+.adidas{
+    padding-right: 190px;
+}
+.men{
+    padding-top: 10px;
+    font-size: large;
+    color:rgb(114, 113, 113);
+}
+.size , .color{
+    padding: 15px 0px 10px 0px;
+    font-size: 18px;
+}
+.btn{
+    margin: 10px 0px 40px 0px;
+}
+.btn-1 , .btn-2{
+    border: 2px solid black;
+    height: 35px;
+    width: 170px;
+    margin-bottom: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.button{
+    text-decoration: none;
+    margin-right: 18px;
+    color:  rgb(255, 166, 0);
+
+}
+.button:hover{
+    border-radius: 50%;
+    padding: 10px;
+    background-color:  rgb(255, 166, 0);
+    align-items: center;
+    color: white;
+}
+.btn-1{
+    background-color: rgb(255, 166, 0) ;
+    color: white;
+    font-weight: bold;
+    border: 2px solid rgb(255, 166, 0);
+}
+.btn-2:hover{
+    background-color: rgb(255, 166, 0) ;
+    color: white;
+    font-weight: bold;
+    border: 2px solid rgb(255, 166, 0);
+    box-shadow: 4px 4px 5px rgb(255, 166, 0);
+}
+.btn-2{
+    border: 2px solid rgb(255, 166, 0);
+    color: rgb(255, 166, 0);
+    background-color: white;
+    font-weight: bold;
+}
+.btn-1:hover{
+    border: 2px solid rgb(255, 166, 0);
+    color: rgb(255, 166, 0);
+    background-color: white;
+    font-weight: bold;
+    box-shadow: 4px 4px 5px rgb(255, 166, 0);
+}
+.r1 , .r2 , .r3{
+ 
+    border-radius: 50%;
+    height: 18px;
+    width: 18px;
+    margin-right: 15px;
+}
+.h{
+    display: flex;
+}
+.r1{
+    background-color: rgba(253, 36, 36, 0.71);
+}
+.r2{
+    background-color: aqua;
+}
+.r3{
+    background-color: rgb(255, 166, 0);
+}
+.r1:hover{
+    border: 2px solid rgb(128, 126, 126);
+}
+.r2:hover{
+    border: 2px solid rgb(128, 126, 126);
+}
+.r3:hover{
+    border: 2px solid rgb(128, 126, 126);
+}

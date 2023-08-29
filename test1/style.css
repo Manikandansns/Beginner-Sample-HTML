@@ -1,0 +1,88 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(213, 211, 211, 0.123);
+    font-family: sans-serif;
+}
+.box{
+    border: 2px solid #fff;
+    height: 100vh;
+    width: 100%;
+    margin: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.hi{
+    padding: 35px;
+}
+.join{
+    color: rgba(12, 208, 208, 0.861);
+}
+.day{
+    padding-top: 18px;
+    color: rgba(79, 147, 12, 0.842);
+}
+.gain{
+    padding-top: 12px;
+    color: darkgrey;
+    line-height: 25px;
+    padding-bottom: 4px;
+}
+.t{
+    
+    padding: 35px;
+    height: 25vh;
+    width: 280px;
+    padding-top: -50px;
+    background-color: rgba(17, 214, 181, 0.886); 
+    display: flex;
+}
+
+.ill{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family: sans-serif;
+    color: #fff;
+}
+.per{
+    padding: 10px;
+    color: whitesmoke;
+    opacity: 0.7;
+}
+.full{
+    color: #fff;
+    padding-top: 11px;
+    padding-bottom: 30px;
+}
+button{
+    height: 45px;
+    width: 240px;
+    background-color: greenyellow;
+    color: #fff;
+    border: 2px solid greenyellow;
+    border-radius: 5px;
+    font-size: medium;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px greenyellow;
+}
+.why{
+    position: absolute;
+    top: 229.5px;
+    left: 377.1px;
+    padding: 35px;
+    height: 25vh;
+    width: 280px;
+    padding-top: -50px;
+    background-color: rgba(28, 223, 191, 0.61); 
+}
+.w{
+    color: #fff;
+    font-weight: bold;
+    font-size: larger;
+    padding-bottom: 20px;
+}
+.final{
+    color: whitesmoke;
+    line-height: 21px;
+    opacity: 0.7;
+}

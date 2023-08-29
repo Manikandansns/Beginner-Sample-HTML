@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+   
+}
+.section-1{
+    background-color: #fc8019;
+    color: whitesmoke;
+    margin: 20px 350px 20px 350px;
+    font-family: sans-serif;
+    padding: 40px 40px 40px 45px;
+}
+.first{
+    display: flex;
+    font-size: 30px;
+}
+.it{
+    font-style: normal;
+    font-weight: lighter;
+    padding-right: 10px;
+}
+.clock{
+    font-size: 43px;
+    padding-bottom: 15px;
+}
+.clock , .lunch{
+    font-weight: 800;
+    line-height: 50px;
+}
+.img{
+    position: absolute;
+    left: 1050px;  
+    height: 90px;
+    opacity: 0.9;
+}
+.junk{
+    display: flex;
+    float: right;
+    height: 550px;
+}
+.section-2{
+    margin-top: 300px;
+}
+.get {
+    font-size: xx-large;
+}
+.offer{
+    font-size: 70px;
+    line-height: 60px;
+    font-family: ;
+}
+.off{
+    display: flex;
+}
+.free{
+    font-weight: 900;
+}
+.o{
+    padding-top: 20px;
+}
+.line{
+    border: 1px solid rgba(245, 245, 245, 0.537);
+    width: 160px;
+    margin: 18px 0px ;
+}
+.on , .use{
+    color: rgba(255, 255, 255, 0.767);
+}
+.welcome{
+    margin-top: 2px;
+    font-size: x-large;
+    font-weight: 100;
+}

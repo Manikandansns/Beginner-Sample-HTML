@@ -1,0 +1,124 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ul{
+    border: 5px solid rgb(118, 16, 227);
+    height: 40px;
+    width: 99.%;
+    background-color: rgb(118, 16, 227);
+}
+.li{
+    list-style: none;
+    display: flex;
+    flex-direction: end;
+    float: right;
+    padding: 8px;
+    color: whitesmoke;
+}
+.second{
+    height: 250px;
+    width: 92%;
+    justify-content: center;
+    background-image: url("./food.avif");
+    background-size: cover;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 4%;
+}
+.food{
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+.learn , .follow{
+    color: rgba(240, 255, 240, 0.79);
+    padding-bottom: 5px;
+}
+.btn{
+    height: 28px;
+    width: 150px;
+    border-radius: 7px;
+    font-weight: bolder;
+    color: whitesmoke;
+    background-color: rgba(162, 30, 239, 0.815);
+    border: 2px solid rgba(162, 30, 239, 0.815);
+}
+.follow{
+    padding-bottom: 17px;
+}
+.l{
+    margin: 8%;
+    margin-right: 10px;
+    width: 500px;
+    height: 190px;
+    text-align: center;
+}
+.final{
+    display: flex;
+    padding-top: 54px;
+}
+.total{
+    display: flex;
+}
+.I{
+    border: 0px solid rgba(3, 138, 133, 0.447);
+    height: 150px;
+    width: 150px;
+    border-radius: 4%;
+    background-color: rgba(3, 138, 133, 0.447);
+    margin: 10px;
+    
+}
+.II{
+    border: 0px solid rgba(91, 2, 91, 0.543);
+    height: 150px;
+    width: 150px;
+    border-radius: 4%;
+    margin: 10px;
+    background-color:rgba(91, 2, 91, 0.543) ;
+}
+.III{
+    border: 0px solid rgba(63, 112, 3, 0.374);
+    height: 150px;
+    width: 150px;
+    border-radius: 4%;
+    margin: 10px;
+    background-color: rgba(63, 112, 3, 0.374);
+}
+.easy{
+    padding-top: 6px;
+    font-size: smaller;
+}
+.how{
+    font-weight: 700;
+}
+.st , .ste , .step{
+    /* position: absolute;
+    top: 520px; */
+    padding-left: 13px;
+    font-weight: 800;
+    font-size: medium;
+}
+.way{
+    /* position: absolute;
+    top: 545px; */
+    padding-left: 13px;
+    font-size: medium;
+    padding-top: 2px;
+}
+.no{
+    font-size: xxx-large;
+    font-size: 350%;
+    padding: 12px;
+    padding-left: 26px;
+    opacity: 0.09;
+    font-weight: 900;
+}
+.logo{
+    color: whitesmoke;
+    padding-left: 15px;
+    padding-top: 5px;
+}

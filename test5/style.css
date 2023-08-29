@@ -1,0 +1,142 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.nav{
+    border: 2px solid rgba(243, 240, 240, 0.632);
+    background-color: rgba(243, 240, 240, 0.632);
+    height: 50px;
+    width: 100%;
+}
+.ul{
+    list-style: none;
+    display: flex;
+    float: right;
+    padding-top: 15px;
+    padding-right: 90px;
+}
+.li{
+    padding-left: 32px;
+    color: grey;
+}
+.btn{
+    border: 0px solid rgb(243, 238, 238);
+    border-radius: 7%;
+    background-color: rgba(68, 2, 182, 0.792);
+    height: 26px;
+    width: 70px;
+    color: rgba(245, 245, 245, 0.829);
+    position: relative;
+    padding-left: 2px;
+    padding-right: 2px;
+    margin-bottom: 50%;
+    box-shadow: 3px 3px 5px rgba(68,2,182,0.792);
+}
+.main{
+    border: 0px solid rgba(68, 2, 182, 0.792);
+    background-color: rgba(68, 2, 182, 0.792);
+    height: 320px;
+    width: 100%;
+}
+.h{
+    text-align: justify;
+    height: 30px;
+    width: 300px;
+    padding-left: 60px;
+    padding-top: 55px;
+    color: rgba(245, 245, 245, 0.765);
+    
+}
+.h3{
+    font-family: sans-serif;
+    font-weight: 900;
+}
+.l{
+    padding-top: 15px;
+    font-size: small;
+}
+.enter{
+    border: 2px whitesmoke;
+    border-radius: 3%;
+    height: 26px;
+    width: 210px;
+    box-shadow: 3px 3px 5px black;
+    padding-left: 15px;
+}
+.type{
+    margin-top: 29px;
+}
+.p{
+    height: 235px;
+    width: 340px;
+    display: flex;
+    float: right;
+    opacity: 0.8;
+}
+.foot{
+    border: 0px solid black;
+    height: 320px;
+    width: 89%;
+    margin-top: 30px;
+    margin-left: 57px;   
+    font-family: sans-serif;
+}
+.b{
+    height: 320px;
+    width: 35%;
+    border-radius: 3%;
+}
+.food{
+    position: absolute;
+    text-align: justify;
+    padding-left: 10px;
+}
+.i{
+    color: rgba(68, 2, 182, 0.792);
+    font-weight: bolder;
+    font: size 1px;
+    padding-bottom: 5px;
+}
+.good{
+    font-weight: bolder;
+    font-size: 20px;
+    padding-bottom: 19px;
+}
+.foo{
+    position: absolute;
+    text-align: justify;
+    padding-left: 10px;  
+    padding-top: 170px;
+}
+.img{
+    border: 0px solid black;
+    height: 150px;
+    width: 180px;
+    position: absolute;
+    left: 263px;
+    top: 0px;
+    background-image: url("./food.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4%;
+}
+.imge{
+    border: 0px solid black;
+    height: 150px;
+    width: 180px;
+    position: absolute;
+    left: 263px;
+    top: 168px;
+    background-image: url("./food.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 4%;
+}
+.h4{
+    display: flex;
+    float: left;
+    padding-right: 188px;
+    font-style: oblique;
+    color: rgba(56, 4, 190, 0.724);
+    font-size: 18px;
+}
